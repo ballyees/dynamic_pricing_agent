@@ -12,6 +12,8 @@ langchain-google-community
 langchain-google-vertexai
 google-genai
 
+tavily
+
 pinecone
 
 asyncpg
